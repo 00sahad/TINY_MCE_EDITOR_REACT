@@ -1,3 +1,7 @@
+
+![image](https://github.com/Muhammed-Sahad-c/TinyMCE-Editor-with-React-JS/assets/109616941/a2e43d3c-acd0-48a4-b866-2e81e83cbdb0)
+
+
 # React TinyMCE Integration
 React TinyMCE Integration simplifies the integration of the TinyMCE rich text editor into React applications, offering a practical example and guidance for a seamless setup.
 
