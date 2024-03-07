@@ -2,12 +2,15 @@
 ![image](https://github.com/Muhammed-Sahad-c/TinyMCE-Editor-with-React-JS/assets/109616941/a2e43d3c-acd0-48a4-b866-2e81e83cbdb0)
 
 
-# React TinyMCE Integration
+# Integrating Tiny MCE Editor with React: A Step-by-Step Guide 
+
 React TinyMCE Integration simplifies the integration of the TinyMCE rich text editor into React applications, offering a practical example and guidance for a seamless setup.
 
+Wanna to know how to setup?  [Click here](https://medium.com/@sahadmuhammed289/integrating-tiny-mce-editor-with-react-a-step-by-step-guide-3415f3063c33)
+ 
 ## About TinyMCE Editor
 
-[TinyMCE](https://www.tiny.cloud/) is a powerful and highly customizable WYSIWYG (What You See Is What You Get) rich text editor that empowers developers to integrate rich text editing capabilities into their web applications with ease.
+Tiny MCE is a powerful and highly customizable WYSIWYG (What You See Is What You Get) rich text editor that empowers developers to integrate rich text editing capabilities into their web applications with ease.
 For more information, visit the [TinyMCE Official Website](https://www.tiny.cloud/).
 
 ## Project Demo
